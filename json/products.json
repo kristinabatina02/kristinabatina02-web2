@@ -1,0 +1,108 @@
+[
+    {
+        "id" : 1,
+        "name" : "Lenovo Laptop ThinkBook 15 G220VG0005PB",
+        "brendId" : 2,
+        "categoryId" : 1,
+        "images" : [{
+            "src" : "images/product/lenovo.jpg",
+            "alt" : "Lenovo"
+        },
+        {
+            "src" : "images/product/lenovoLaptop1.jpg",
+            "alt" : "Lenovo laptop druga slika" 
+        },
+        {
+            "src" : "images/product/lenovoLaptop2.jpg",
+            "alt" : "Lenovo laptop treca slika" 
+        }],
+        "price" : {
+            "priceBeforeDiscount" : 1119.19,
+            "current" : 726.45
+        },
+        "numberStar" : 4,
+        "description" : "Good laptop with 8GB ram memory, 15.6 inch display, hard disc 256GB SSD and integrated graphic card AMD Radeon.",
+        "specification" : [
+            {
+                "Battery" : "45W",
+                "Color" : "Grey",
+                "Chipset" : "AMD SoC Platform",
+                "Resolution" : "1920 x 1080 px",
+                "Operative System" : "Windows 10 Home"
+            
+            }
+        ],
+        "new" : null,
+        "inStocks" : true
+    },
+    {
+        "id" : 2,
+        "name" : "VOX Combined refrigerator NF 3735 IXF - Silver",
+        "brendId" : 5,
+        "categoryId" : 3,
+        "images" : [{
+            "src" : "images/product/voxRefrigerator1.jpg",
+            "alt" : "Vox refrigerator 1"
+        },
+        {
+            "src" : "images/product/voxRefrigerator2.jpg",
+            "alt" : "Vox refrigerator 2"
+        }],
+        "price" : {
+            "priceBeforeDiscount" : 547.11,
+            "current" : 444.94
+        },
+        "numberStar" : 5,
+        "description" : "An elegantly designed combined refrigerator equipped with a water dispenser that has an external display and electronic control.",
+        "specification" : [
+            {
+                "Height" : "186 cm",
+                "Width" : "59.5 cm",
+                "Color" : "Grey",
+                "Freezing capacity" : "8 kg/24 h",
+                "Noise level" : "41 dB"
+            }
+        ],
+        "new" : true,
+        "inStocks" : true
+    },
+    {
+        "id" : 3,
+        "name" : "VOX Smart television 65\" 65WOS315B",
+        "brendId" : 5,
+        "categoryId" : 4,
+        "images" : [{
+            "src" : "images/product/voxTv1.jpg",
+            "alt" : "Vox television 1"
+        },
+        {
+            "src" : "images/product/voxTv2.jpg",
+            "alt" : "Vox television 2"
+        },
+        {
+            "src" : "images/product/voxTv3.jpg",
+            "alt" : "Vox television 3"
+        }],
+        "price" : {
+            "priceBeforeDiscount" : 722.27,
+            "current" : 581.15
+        },
+        "numberStar" : 5,
+        "description" : "Smart TV with integrated Wi-Fi and web operating system. An impressive screen with a diagonal of 55\" Direct LED slim technology which the vivid image is provided by 4K Ultra HD resolution",
+        "specification" : [
+            {
+                "Diagonal display" : "65",
+                "Dimension" : "With stand: 145 cm x 89.6 cm x 22.4 cm Without stand: 145 cm x 83.6 cm x 7.3 cm",
+                "Color" : "Black",
+                "Functions" : "Magic Remote PVR E-manual MEMC for 4K 60Hz DRM & HDR Supported HLG Multilingual OSD Sleep Timer Hotel Mode",
+                "Resolution" : "3840 x 2160 px 4K Ultra HD",
+                "Application" : "Netflix, Amazon Prime Video, YouTube"
+            }
+        ],
+        "new" : true,
+        "inStocks" : false
+    }
+    
+
+]
+
